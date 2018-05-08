@@ -1,8 +1,8 @@
 AddCSLuaFile()
 
-local slackURL = ""
-local configFile = "slacksend/url.txt"
-local loadURL = true -- Load the url from the url.txt file?
+local slackURL = "your server incoming-webhook url here"
+local configFile = "slacksend/url.txt" -- Only used when loadURL is true
+local loadURL = false -- Load the url from the url.txt file?
 local slackChannel = "#general"
 local slackUserName = "ZS Reporter"
 
