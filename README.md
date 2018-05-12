@@ -15,7 +15,7 @@ An Example:
 ```
 This will show up on the slack server as:
 ```
-(Player Abuse Report)
+[Player Abuse Report]
 By: CoolGuy123
 Offender: newbie22
 Reason:  killing everyone on the team
