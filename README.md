@@ -16,6 +16,7 @@ An Example:
 This will show up on the slack server as:
 ```
 [Player Abuse Report]
+When: 23:14:48 - 11/05/2018
 By: CoolGuy123
 Offender: newbie22
 Reason:  killing everyone on the team
